@@ -1,0 +1,4 @@
+# Access htc_diag
+userdebug_or_eng(`
+  htc_diag_use(audioserver)
+')
